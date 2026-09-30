@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.png
+*.webp
+qa_*.json
+export_*.json
+trans_*.json
+tmp/
+worlds/

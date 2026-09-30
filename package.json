@@ -1,0 +1,16 @@
+{
+  "name": "foundry-vf-toolkit",
+  "version": "0.1.0",
+  "description": "Translate a Foundry VTT adventure into French with an AI agent, and rebuild MAD Cartography battlemaps with the official tokens and pins.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Julien Rabault",
+  "scripts": {
+    "test": "node --test",
+    "bundle": "node tools/bundle.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": ["foundry-vtt", "dnd5e", "translation", "french", "mcp", "claude", "mad-cartography"]
+}
